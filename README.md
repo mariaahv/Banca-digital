@@ -10,15 +10,15 @@ En el Perú, las Fintech están comenzando a aparecer con mucho éxito. Nuestro 
 Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son muchas, sobre todo porque le otorga al ciudadano el control de sus finanzas desde cualquier dispositivo móvil. Asimismo, el simple hecho de no tener que acercarse hasta un banco y realizar largas colas. Las Fintech ofrecen un servicio claro, sencillo y te genera un ahorro de tiempo.
 
 ## CARACTERÍSTICAS DE LOS MILLENNIALS
-***No hay vida sin Internet:*** Es necesario que estén conectados siempre, y para eso recurren a dispositivos como smartphones, tablets y notebooks. Desde actividades de ocio (mirar películas), comprar productos o hasta socializar con personas, siempre lo hacen con la más reciente aplicación o web.
+- ***No hay vida sin Internet:*** Es necesario que estén conectados siempre, y para eso recurren a dispositivos como smartphones, tablets y notebooks. Desde actividades de ocio (mirar películas), comprar productos o hasta socializar con personas, siempre lo hacen con la más reciente aplicación o web.
 
-***Visión carpe diem***: Ponderan el presente por sobre todas las cosas, quieren vivir el momento actual intensamente y buscan la felicidad y la pasión en todo lo que hacen. Esto genera un cambio importante, ya que mientras que para las generaciones anteriores el sinónimo del éxito estaba siempre más relacionado con las posiciones jerárquicas en lo laboral, los millennials ponderan el trabajar de lo que les gusta por sobre el ejercicio del poder o incluso lo material.
+- ***Visión carpe diem***: Ponderan el presente por sobre todas las cosas, quieren vivir el momento actual intensamente y buscan la felicidad y la pasión en todo lo que hacen. Esto genera un cambio importante, ya que mientras que para las generaciones anteriores el sinónimo del éxito estaba siempre más relacionado con las posiciones jerárquicas en lo laboral, los millennials ponderan el trabajar de lo que les gusta por sobre el ejercicio del poder o incluso lo material.
 
-***Movilidad laboral:*** Cuando sienten que su trabajo ya no representa un reto, lo dejan sin remordimientos y buscan otro en donde se sientan más a gusto y que pueden aportar más. También, dado que suelen ser multifacéticos, es probable que tengan varios trabajos free-lance simultáneos. En USA se estima que un joven cambia 15 veces de trabajo antes de cumplir los 38 años. Eso demuestra el desapego que existe para esta generación en lo referente a lo laboral.
+- ***Movilidad laboral:*** Cuando sienten que su trabajo ya no representa un reto, lo dejan sin remordimientos y buscan otro en donde se sientan más a gusto y que pueden aportar más. También, dado que suelen ser multifacéticos, es probable que tengan varios trabajos free-lance simultáneos. En USA se estima que un joven cambia 15 veces de trabajo antes de cumplir los 38 años. Eso demuestra el desapego que existe para esta generación en lo referente a lo laboral.
 
-***Participación y crítica:*** Son participativos y les gusta compartir sus conocimientos. Están a favor de democratizar la información y el contenido de manera gratuita. Además, no confían en todo lo que las empresas les dicen e investigan en la web antes de tomar cualquier decisión de consumo.
+- ***Participación y crítica:*** Son participativos y les gusta compartir sus conocimientos. Están a favor de democratizar la información y el contenido de manera gratuita. Además, no confían en todo lo que las empresas les dicen e investigan en la web antes de tomar cualquier decisión de consumo.
 
-***Poca posesión, mucho disfrute:*** No anhelan tener casa ni auto propio. Tampoco son adeptos de acumular bienes. El único gasto que priorizan es el de su smartphone. Prefieren disfrutar, viajar y la inversión en “experiencias” por sobre la posesión física de las cosas, cualesquiera que sean.
+- ***Poca posesión, mucho disfrute:*** No anhelan tener casa ni auto propio. Tampoco son adeptos de acumular bienes. El único gasto que priorizan es el de su smartphone. Prefieren disfrutar, viajar y la inversión en “experiencias” por sobre la posesión física de las cosas, cualesquiera que sean.
 
 ## STAKEHOLDERS
 - CEO
@@ -55,7 +55,7 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 *Regulador estatal*
 - ¿Cuáles son las limitaciones al realizar transacciones online/vía app?
 
-##BUSINESS MODEL CANVAS
+## BUSINESS MODEL CANVAS
 ![Business Model Canvas](assets/bmc.JPG "Business Model Canvas")
 
 
@@ -78,7 +78,7 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 **ACTIVIDADES PLANEADAS**
 ![Plan de actividades](assets/plan.JPG "Plan de actividades")
 
-###Miembros
+### Miembros
 - Flora María
 - Ruth Matos
 
