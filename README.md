@@ -56,7 +56,7 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 - ¿Cuáles son las limitaciones al realizar transacciones online/vía app?
 
 ##BUSINESS MODEL CANVAS
-![Business Model Canvas](assets/BMC.jpg)
+![Business Model Canvas](assets/bmc.JPG "Business Model Canvas")
 
 
 ## PLAN DE INVESTIGACIÓN
