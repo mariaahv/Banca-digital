@@ -20,6 +20,35 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 
 - ***Poca posesión, mucho disfrute:*** No anhelan tener casa ni auto propio. Tampoco son adeptos de acumular bienes. El único gasto que priorizan es el de su smartphone. Prefieren disfrutar, viajar y la inversión en “experiencias” por sobre la posesión física de las cosas, cualesquiera que sean.
 
+## RESEARCH CUALITATIVO
+## MAPA DE AFINIDAD
+Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. 
+Los temas encontrados fueron :
+- Utilizan tarjetas de crédito o débito
+- Transacciones Online
+- Transacciones en la entidad bancaria
+- Beneficios  más frecuentes al realizar transacciones Online:
+   - Ahorro de Tiempo
+   - facil
+   - rapidez
+   - Comodidad
+- Problemas más frecuentes al realizar transacciones Online:
+   - No cumplir con los tiempos de entrega pactados
+   - Seguridad
+-Transacciones financieras más frecuentes:
+   - Prestamos
+   - Transferencias
+   - Ahorro
+ -Metas de Ahorro:
+   - Viajes
+   - vivienda
+   - Estudios
+   - Imprevistos
+ - Principales caracteristicas llamativas para los usuarios
+   - Promociones
+   - Descuentos
+   
+
 ## STAKEHOLDERS
 - CEO
 - Gerente de Marketing
