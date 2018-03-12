@@ -1,5 +1,8 @@
 # Banca Digital
 El Banco del País es uno de los bancos más importante del país. Esta institución actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes (millennials).
+# DESCUBRIMIENTO E INVESTIGACIÓN
+Realizamos la búsqueda de información  online (webs, foros, videos, etc) sobre nuestro público objetivo(Millenials) para poder conocer
+sus características , también sobre el impacto de la tecnología en las finanzas (Fénomeno Fintech).
 
 ***FENÓMENO FINTECH***
 
@@ -19,6 +22,49 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 - ***Participación y crítica:*** Son participativos y les gusta compartir sus conocimientos. Están a favor de democratizar la información y el contenido de manera gratuita. Además, no confían en todo lo que las empresas les dicen e investigan en la web antes de tomar cualquier decisión de consumo.
 
 - ***Poca posesión, mucho disfrute:*** No anhelan tener casa ni auto propio. Tampoco son adeptos de acumular bienes. El único gasto que priorizan es el de su smartphone. Prefieren disfrutar, viajar y la inversión en “experiencias” por sobre la posesión física de las cosas, cualesquiera que sean.
+
+## RESEARCH 
+Se realizó las encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc.
+Obtener data cuantitativa y cualitativa.
+Para esta fase del proceso se usaron las siguientes herramientas:
+
+Google form
+![encuestas](assets/1.png "data")
+![encuestas](assets/2.png "data")
+![encuestas](assets/3.png "data")
+![encuestas](assets/4.png "data")
+![encuestas](assets/5.png "data")
+![encuestas](assets/6.png "data")
+
+# SÍNTESIS Y DEFINICIÓN
+
+## MAPA DE AFINIDAD
+Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes  de las respuestas. Agrupamos toda la información en Categorias.
+Los temas encontrados fueron :
+- Utilizan tarjetas de crédito o débito
+- Transacciones Online
+- Transacciones en la entidad bancaria
+- Beneficios  más frecuentes al realizar transacciones Online:
+   - Ahorro de Tiempo
+   - facil
+   - rapidez
+   - Comodidad
+- Problemas más frecuentes al realizar transacciones Online:
+   - No cumplir con los tiempos de entrega pactados
+   - Seguridad
+-Transacciones financieras más frecuentes:
+   - Prestamos
+   - Transferencias
+   - Ahorro
+ -Metas de Ahorro:
+   - Viajes
+   - vivienda
+   - Estudios
+   - Imprevistos
+ - Principales caracteristicas llamativas para los usuarios
+   - Promociones
+   - Descuentos
+   
 
 ## STAKEHOLDERS
 - CEO
@@ -70,10 +116,12 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 - Conocer la interacción de los millennials con su entorno, tener una perspectiva holística nos dará una mejor idea del contexto del por qué toman ciertos caminos.
 
 **HERRAMIENTAS**
+- Benchmarking
 - Encuestas
 - Entrevistas a profundidad
 - Diagrama de afinidad
 - Testing
+
 
 **ACTIVIDADES PLANEADAS**
 ![Plan de actividades](assets/plan.JPG "Plan de actividades")
