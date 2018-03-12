@@ -39,40 +39,6 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 https://docs.google.com/forms/d/1WEBJCd7-9ks6r7CqmCFKfu7C8MQJNB1BgD8T9SsFpEE/edit#responses
 
-
-# SÍNTESIS Y DEFINICIÓN
-
-## MAPA DE AFINIDAD
-Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes  de las respuestas. Agrupamos toda la información en Categorias.
-Los temas encontrados fueron :
-- Utilizan tarjetas de crédito o débito
-- Transacciones Online
-- Transacciones en la entidad bancaria
-- Beneficios  más frecuentes al realizar transacciones Online:
-   - Ahorro de Tiempo
-   - fácil
-   - rapidez
-   - Comodidad
-- Problemas más frecuentes al realizar transacciones Online:
-   - No cumplir con los tiempos de entrega pactados
-   - Seguridad
--Transacciones financieras más frecuentes:
-   - Prestamos
-   - Transferencias
-   - Ahorro
-   - Pago de Servicios
- - Metas de Ahorro:
-   - Viajes
-   - vivienda
-   - Estudios
-   - Imprevistos
- - Principales caracteristicas llamativas para los usuarios
-   - Promociones
-   - Descuentos
-
-Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías en transacciones frecuentes fueron Transferencias y Pago de servicios,
-tambien notamos  que los usuarios se veían muy influenciados por beneficios Como descuentos , promociones etc  ,estos fueron los puntos que  más coincidencia  tuvieron nuestros usuarios por ello decidimos abordar estas categorías para la obtención de nuestra problemática.
-
 ## STAKEHOLDERS
 - CEO
 - Gerente de Marketing
@@ -132,6 +98,68 @@ tambien notamos  que los usuarios se veían muy influenciados por beneficios Com
 
 **ACTIVIDADES PLANEADAS**
 ![Plan de actividades](assets/plan.JPG "Plan de actividades")
+## ETAPAS
+
+### 1. Descubrimiento e investigación
+
+- Formulación de cuestionario y guía de entrevistas
+- Encuestas online https://docs.google.com/forms/d/e/1FAIpQLSdsot1wmRGD46ARa3YwvIAklEjfI7VOVnMYm07HAD3izOiCGA/viewform
+- Entrevistas a profundidad
+
+
+### 2. Síntesis e Ideación
+En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
+
+**DIAGRAMA DE AFINIDAD**
+Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
+
+*Información General*
+
+- Utilizan tarjetas de crédito o débito
+- Realizan transacciones online
+- Realizan transacciones a través de la banca digital y app de su banco
+
+*Beneficios más frecuentes al realizar transacciones Online*
+
+- Ahorro de Tiempo
+- Fácil
+- Rapidez
+- Comodidad
+
+*Problemas más frecuentes con su banco*
+
+- Cobro por transacciones
+- La atención en ventanilla
+- Cobro de mantenimiento
+
+*Transacciones más frecuentes que realiza*
+
+- Tranferencias
+- Pago de servicios
+- Pago de tarjetas
+
+*Principales motivos por los que ahorra*
+
+- Vivienda
+- Estudios
+- Viajes
+- Imprevistos
+
+*Principales características llamativas para los usuarios*
+
+- Promociones
+- Descuentos
+- Consejos de ahorro
+
+**CONCEPTUALIZACIÓN**
+En base a la información recabada decidimos enfocarnos en los siguientes beneficios para los usuarios:
+- Operaciones frecuentes
+- Pago de servicios
+- Consejos de ahorro
+- Promociones
+
+**USER PERSONA**
+![User Persona](assets/User-Persona.jpg "User Persona")
 
 ### Miembros
 - Flora María
