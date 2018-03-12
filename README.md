@@ -87,7 +87,7 @@ https://docs.google.com/document/d/1vPzSmaW6GcFcl4l-dQr2_pNxDVX0fIY7o4ghYJXj2Ko/
 
 **ACTIVIDADES PLANEADAS**
 ## ETAPAS
-
+![Plan](assets/plan.JPG "Plan")
 
 ### 1. Descubrimiento e investigación
 
@@ -100,7 +100,8 @@ Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas
 ### 2. Síntesis e Ideación
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
 
-*DIAGRAMA DE AFINIDAD**
+**DIAGRAMA DE AFINIDAD**
+
 ![Diagrama](assets/mapa.jpg "Plan de actividades")
 Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
@@ -175,9 +176,10 @@ Los primeros testing los realizamos en papel y el feedback que obtuvimos fue el 
 - Faltó aliación entre las secciones
 - Falto una sección de movimientos detallados de la cuenta.
 
-MARVEL
-Transacciones: https://marvelapp.com/2e96496/screen/39518702
-Pago de servicios: https://marvelapp.com/2e96496/screen/39518693
+**MARVEL**
+
+-Transacciones: https://marvelapp.com/2e96496/screen/39518702
+-Pago de servicios: https://marvelapp.com/2e96496/screen/39518693
 
 ### Miembros
 - Flora María
