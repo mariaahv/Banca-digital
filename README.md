@@ -103,6 +103,7 @@ En esta etapa nos enfocamos en obtener los insights de los usuarios a través de
 **DIAGRAMA DE AFINIDAD**
 
 ![Diagrama](assets/mapa.jpg "Plan de actividades")
+
 Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
 *Información General*
@@ -178,8 +179,8 @@ Los primeros testing los realizamos en papel y el feedback que obtuvimos fue el 
 
 **MARVEL**
 
--Transacciones: https://marvelapp.com/2e96496/screen/39518702
--Pago de servicios: https://marvelapp.com/2e96496/screen/39518693
+- Transacciones: https://marvelapp.com/2e96496/screen/39518702
+- Pago de servicios: https://marvelapp.com/2e96496/screen/39518693
 
 ### Miembros
 - Flora María
