@@ -28,17 +28,6 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 El estudio lo realizamos a apps como NEQUI , SIMPLE , NUBANK , N26 , INTERBANK , BBV.
 https://docs.google.com/document/d/1vPzSmaW6GcFcl4l-dQr2_pNxDVX0fIY7o4ghYJXj2Ko/
 
-
-## RESEARCH
-Se realizó las encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc. Obtener data cuantitativa y cualitativa.
-Para esta fase del proceso se usaron las siguientes herramientas:
-
-- Google form
-
-
-
-https://docs.google.com/forms/d/1WEBJCd7-9ks6r7CqmCFKfu7C8MQJNB1BgD8T9SsFpEE/edit#responses
-
 ## STAKEHOLDERS
 - CEO
 - Gerente de Marketing
@@ -104,8 +93,8 @@ https://docs.google.com/forms/d/1WEBJCd7-9ks6r7CqmCFKfu7C8MQJNB1BgD8T9SsFpEE/edi
 
 - Formulación de cuestionario y guía de entrevistas
 - Encuestas online https://docs.google.com/forms/d/e/1FAIpQLSdsot1wmRGD46ARa3YwvIAklEjfI7VOVnMYm07HAD3izOiCGA/viewform
+Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc. Obtener data cuantitativa y cualitativa.
 - Entrevistas a profundidad
-
 
 ### 2. Síntesis e Ideación
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
