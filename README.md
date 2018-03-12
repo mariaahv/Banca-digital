@@ -35,12 +35,7 @@ Para esta fase del proceso se usaron las siguientes herramientas:
 
 - Google form
 
-![encuestas](assets/1.png "data")
-![encuestas](assets/2.png "data")
-![encuestas](assets/3.png "data")
-![encuestas](assets/4.png "data")
-![encuestas](assets/5.png "data")
-![encuestas](assets/6.png "data")
+
 
 https://docs.google.com/forms/d/1WEBJCd7-9ks6r7CqmCFKfu7C8MQJNB1BgD8T9SsFpEE/edit#responses
 
