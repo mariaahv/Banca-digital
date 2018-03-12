@@ -100,6 +100,7 @@ Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
 
 **DIAGRAMA DE AFINIDAD**
+
 Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
 *Información General*
@@ -141,6 +142,7 @@ Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos
 - Consejos de ahorro
 
 **CONCEPTUALIZACIÓN**
+
 En base a la información recabada decidimos enfocarnos en los siguientes beneficios para los usuarios:
 - Operaciones frecuentes
 - Pago de servicios
@@ -148,6 +150,7 @@ En base a la información recabada decidimos enfocarnos en los siguientes benefi
 - Promociones
 
 **USER PERSONA**
+
 ![User Persona](assets/User-Persona.jpg "User Persona")
 
 ### Miembros
