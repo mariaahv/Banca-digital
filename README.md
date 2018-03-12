@@ -86,8 +86,8 @@ https://docs.google.com/document/d/1vPzSmaW6GcFcl4l-dQr2_pNxDVX0fIY7o4ghYJXj2Ko/
 
 
 **ACTIVIDADES PLANEADAS**
-![Diagrama](assets/mapa.jpg "Plan de actividades")
 ## ETAPAS
+
 
 ### 1. Descubrimiento e investigación
 
@@ -101,8 +101,7 @@ Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
 
 *DIAGRAMA DE AFINIDAD**
-![Business Model Canvas](assets/bmc.JPG "Business Model Canvas")
-
+![Diagrama](assets/mapa.jpg "Plan de actividades")
 Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
 *Información General*
@@ -152,7 +151,7 @@ En base a la información recabada decidimos enfocarnos en los siguientes benefi
 - Consejos de ahorro
 - Promociones
 
-++**USER PERSONA**++
+**USER PERSONA**
 
 ![User Persona](assets/User-Persona.jpg "User Persona")
 
@@ -176,6 +175,9 @@ Los primeros testing los realizamos en papel y el feedback que obtuvimos fue el 
 - Faltó aliación entre las secciones
 - Falto una sección de movimientos detallados de la cuenta.
 
+MARVEL
+Transacciones: https://marvelapp.com/2e96496/screen/39518702
+Pago de servicios: https://marvelapp.com/2e96496/screen/39518693
 
 ### Miembros
 - Flora María
