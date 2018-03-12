@@ -50,7 +50,7 @@ Los temas encontrados fueron :
 - Transacciones en la entidad bancaria
 - Beneficios  más frecuentes al realizar transacciones Online:
    - Ahorro de Tiempo
-   - facil
+   - fácil
    - rapidez
    - Comodidad
 - Problemas más frecuentes al realizar transacciones Online:
@@ -61,7 +61,7 @@ Los temas encontrados fueron :
    - Transferencias
    - Ahorro
    - Pago de Servicios
- -Metas de Ahorro:
+ - Metas de Ahorro:
    - Viajes
    - vivienda
    - Estudios
