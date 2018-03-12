@@ -1,6 +1,6 @@
 # Banca Digital
 El Banco del País es uno de los bancos más importante del país. Esta institución actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes (millennials).
-# DESCUBRIMIENTO E INVESTIGACIÓN
+## DESCUBRIMIENTO E INVESTIGACIÓN
 Realizamos la búsqueda de información  online (webs, foros, videos, etc) sobre nuestro público objetivo(Millenials) para poder conocer
 sus características , también sobre el impacto de la tecnología en las finanzas (Fénomeno Fintech).
 
@@ -23,18 +23,27 @@ Los múltiples beneficios que ofrecen las Fintech al emprendedor actual son much
 
 - ***Poca posesión, mucho disfrute:*** No anhelan tener casa ni auto propio. Tampoco son adeptos de acumular bienes. El único gasto que priorizan es el de su smartphone. Prefieren disfrutar, viajar y la inversión en “experiencias” por sobre la posesión física de las cosas, cualesquiera que sean.
 
-## RESEARCH 
-Se realizó las encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc.
-Obtener data cuantitativa y cualitativa.
+## Benchmarking
+Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación inmediato con respecto a nuestros iguales (competidores directos e indirectos) permitiéndonos saber si estamos haciendo bien las cosas o bien tenemos margen para mejorarlas y detectar oportunidades, amenazas así como debilidades y fortalezas que provienen de nuestro entorno de competidores.
+El estudio lo realizamos a apps como NEQUI , SIMPLE , NUBANK , N26 , INTERBANK , BBV.
+https://docs.google.com/document/d/1vPzSmaW6GcFcl4l-dQr2_pNxDVX0fIY7o4ghYJXj2Ko/
+
+
+## RESEARCH
+Se realizó las encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc. Obtener data cuantitativa y cualitativa.
 Para esta fase del proceso se usaron las siguientes herramientas:
 
-Google form
+- Google form
+
 ![encuestas](assets/1.png "data")
 ![encuestas](assets/2.png "data")
 ![encuestas](assets/3.png "data")
 ![encuestas](assets/4.png "data")
 ![encuestas](assets/5.png "data")
 ![encuestas](assets/6.png "data")
+
+https://docs.google.com/forms/d/1WEBJCd7-9ks6r7CqmCFKfu7C8MQJNB1BgD8T9SsFpEE/edit#responses
+
 
 # SÍNTESIS Y DEFINICIÓN
 
@@ -56,6 +65,7 @@ Los temas encontrados fueron :
    - Prestamos
    - Transferencias
    - Ahorro
+   - Pago de Servicios
  -Metas de Ahorro:
    - Viajes
    - vivienda
@@ -64,7 +74,9 @@ Los temas encontrados fueron :
  - Principales caracteristicas llamativas para los usuarios
    - Promociones
    - Descuentos
-   
+
+Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías en transacciones frecuentes fueron Transferencias y Pago de servicios,
+tambien notamos  que los usuarios se veían muy influenciados por beneficios Como descuentos , promociones etc  ,estos fueron los puntos que  más coincidencia  tuvieron nuestros usuarios por ello decidimos abordar estas categorías para la obtención de nuestra problemática.
 
 ## STAKEHOLDERS
 - CEO
@@ -129,5 +141,3 @@ Los temas encontrados fueron :
 ### Miembros
 - Flora María
 - Ruth Matos
-
-
