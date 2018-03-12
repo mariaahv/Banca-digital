@@ -92,14 +92,15 @@ https://docs.google.com/document/d/1vPzSmaW6GcFcl4l-dQr2_pNxDVX0fIY7o4ghYJXj2Ko/
 ### 1. Descubrimiento e investigación
 
 - Formulación de cuestionario y guía de entrevistas
-- Encuestas online https://docs.google.com/forms/d/e/1FAIpQLSdsot1wmRGD46ARa3YwvIAklEjfI7VOVnMYm07HAD3izOiCGA/viewform
-Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual , características de los usuarios , comportamientos financieros , preferencias , problemática , etc. Obtener data cuantitativa y cualitativa.
+- [Encuestas online](https://docs.google.com/forms/d/e/1FAIpQLSdsot1wmRGD46ARa3YwvIAklEjfI7VOVnMYm07HAD3izOiCGA/viewform)
+Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual, características de los usuarios, comportamientos financieros, preferencias, problemática, etc.
 - Entrevistas a profundidad
+
 
 ### 2. Síntesis e Ideación
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
 
-**DIAGRAMA DE AFINIDAD**
+++**DIAGRAMA DE AFINIDAD**++
 
 Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos obtenidos de las encuestas y entrevistas y agruparlos de acuerdo a las similutes de las respuestas. Los temas encontrados fueron :
 
@@ -141,17 +142,35 @@ Se realizó un diagrama de Afinidad con la finalidad de poder analizar los datos
 - Descuentos
 - Consejos de ahorro
 
-**CONCEPTUALIZACIÓN**
+++**CONCEPTUALIZACIÓN**++
 
 En base a la información recabada decidimos enfocarnos en los siguientes beneficios para los usuarios:
 - Operaciones frecuentes
+- Uso de cuentas de diferentes bancos
 - Pago de servicios
 - Consejos de ahorro
 - Promociones
 
-**USER PERSONA**
+++**USER PERSONA**++
 
 ![User Persona](assets/User-Persona.jpg "User Persona")
+
+### 3. Prototipado y Testing
+++**PAPER PROTOTYPING**++
+Los primeros testing los realizamos en papel y el feedback que obtuvimos fue el siguiente:
+- No entendían el término organizador, designado para ser un tracker de gastos. Pensaron que era como una agenda.
+- Querían compartir la constancia de sus transacciones no solo por correo, sino por Whatsapp y otras aplicaciones.
+- Sugirieron una sección de atención al cliente, en caso de inconvenientes en sus operaciones.
+- Confusión en cuanto al método de registro.
+- Les pareció amigable y sencillo.
+- Querían una sección para encontrar sus operaciones más frecuentes/favoritas.
+- Confusión al momento de seleccionar el banco con el que realizar sus operaciones.
+
+++**ALTA FIFELIDAD**++
+- Le gustaron los colores
+- Faltó aliación entre las secciones
+- Falto una sección de movimientos detallados de la cuenta.
+
 
 ### Miembros
 - Flora María
